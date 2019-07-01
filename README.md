@@ -23,6 +23,7 @@ The htmlRoutes.js file includes two routes:
 
 + A GET Route to /survey which displays the survey page.
 + A USE route that leads to home.html which displays the home page.
+
 The apiRoutes.js file includes two routes:
 
 + A GET route with the url /api/friends. This will be used to display a JSON of all possible friends.
