@@ -1,4 +1,4 @@
-// Create a basic server using Express.JS
+
 // Dependencies
 // =============================================================
 var express = require("express");
